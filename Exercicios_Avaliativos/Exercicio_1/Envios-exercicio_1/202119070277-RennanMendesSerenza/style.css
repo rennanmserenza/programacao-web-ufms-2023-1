@@ -1,0 +1,132 @@
+* {
+  font-family: "JetBrains Mono", monospace;
+}
+
+html {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+
+  padding: 1rem 0 4rem;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+h1 {
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+}
+
+p {
+  text-align: justify;
+}
+
+p,
+li {
+  font-size: small;
+  font-weight: 300;
+}
+
+hr {
+  margin: 1.2rem 0.5rem;
+}
+
+ul {
+  margin: 0px;
+}
+
+strong {
+  font-weight: 700;
+}
+
+/* Table Area */
+table {
+  width: 80%;
+  border-collapse: collapse;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table,
+tr,
+td {
+  border: 1px solid;
+}
+
+td {
+  vertical-align: middle;
+  padding: 0.4rem;
+}
+
+.first-cell {
+  vertical-align: top;
+}
+
+td ul {
+  padding: 0;
+}
+
+td ul li {
+  font-size: medium;
+  font-weight: 500;
+}
+/* End Table Area */
+
+/* Program Area */
+.program {
+  margin: 3rem 0 5rem;
+}
+
+.sub-topic {
+  margin-top: 2.4rem;
+  margin-bottom: 0.6rem;
+}
+
+.arrow-right {
+  font-size: medium;
+}
+
+.program ul {
+  padding: 0;
+}
+/* End Program Area */
+
+/* Procedures Area */
+.procedures {
+  margin-bottom: 5rem;
+}
+/* End Procedures Area */
+
+/* Bibliograph Area */
+.basic-bibliograph,
+.aditional-bibliograph {
+  margin-bottom: 3rem;
+}
+/* End Bibliograph Area */
+
+/* Nota Area */
+.nota {
+  margin: 3rem 0 4rem;
+}
+
+.calculo-nota {
+  margin: 2rem 0;
+
+  font-size: medium;
+  text-align: center;
+}
+/* End Nota Area */
