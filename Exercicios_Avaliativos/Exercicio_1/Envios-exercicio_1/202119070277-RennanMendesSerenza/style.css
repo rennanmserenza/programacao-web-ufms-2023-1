@@ -111,12 +111,12 @@ td ul li {
 }
 /* End Procedures Area */
 
-/* Bibliograph Area */
-.basic-bibliograph,
-.aditional-bibliograph {
+/* Bibliography Area */
+.basic-bibliography,
+.additional-bibliography {
   margin-bottom: 3rem;
 }
-/* End Bibliograph Area */
+/* End Bibliography Area */
 
 /* Nota Area */
 .nota {
